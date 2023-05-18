@@ -1,2 +1,3 @@
 # hello-world
-Hello world example that show case a fullstack web application.
+
+A demo of a simple web application that uses Bit components, maintained in the same repository.
