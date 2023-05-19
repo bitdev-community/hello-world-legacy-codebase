@@ -9,7 +9,7 @@ app.use(cors());
 app.use('/api', helloRouter);
 
 app.listen(port, () => {
-  console.log(`Server listening on port $(port)`);
+  console.log(`Server listening on http://localhost:${port}`);
 });
 
 export default app;
